@@ -1,0 +1,14 @@
+prof.ferraresi.pedro@gmail.com
+
+$ git config --global user.name "Leonardo Henrique" comando para startar o git 
+
+
+$ git config --global user.email Henriquesilva40775@gmail.com
+$ git config --list
+$ git config --list
+$ pwd
+ls
+cd Documents
+cd..
+mkdir
+.gitignore
